@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">UIETTeachersApp</string>
     <string name="logo_of_uiet">Logo of Uiet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LoginButton">LogIn</string>
+    <string name="uiet_logo">Logo of Uiet</string>
 </resources>
